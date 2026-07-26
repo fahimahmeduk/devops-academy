@@ -5,7 +5,7 @@ Learning DevOps through practical projects and my Ubuntu homelab.
 ## Modules
 
 - [x] Linux Fundamentals
-- [ ] Git & GitHub
+- [X] Git & GitHub (In Progress)
 - [ ] Bash Scripting
 - [ ] Docker
 - [ ] Monitoring
