@@ -16,4 +16,4 @@ Learning DevOps through practical projects and my Ubuntu homelab.
 
 ## Branch Experiment
 
-This section only exists on the feature-readme branch.
+This section was created on a feature branch and merged into main.
