@@ -1,4 +1,4 @@
-# DevOps Academy
+# DevOps Academy - Conflict Demo
 
 Learning DevOps through practical projects and my Ubuntu homelab.
 
