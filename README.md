@@ -1,19 +1,16 @@
-# DevOps Academy
+## Development Roadmap
 
-Learning DevOps through practical projects and my Ubuntu homelab.
+### Completed
 
-## Modules
+- Linux Fundamentals
+- Git & GitHub
 
-- [x] Linux Fundamentals
-- [X] Git & GitHub (In Progress)
-- [ ] Bash Scripting
-- [ ] Docker
-- [ ] Monitoring
-- [ ] CI/CD
-- [ ] Terraform
-- [ ] Ansible
-- [ ] Kubernetes
+### Next
 
-## Branch Experiment
-
-This section was created on a feature branch and merged into main.
+- Bash Scripting
+- Docker
+- Monitoring
+- CI/CD
+- Terraform
+- Ansible
+- Kubernetes
