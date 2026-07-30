@@ -1,4 +1,4 @@
-# DevOps Academy
+# DevOps Academy - Main Branch
 
 Learning DevOps through practical projects and my Ubuntu homelab.
 
