@@ -98,3 +98,7 @@ For each topic I aim to:
 This repository will continue to grow as I work through each module and build increasingly practical DevOps projects.
 
 The next stage is Docker, where I'll begin learning containerisation and how applications can be packaged and run consistently across different environments.
+
+## Connect
+
+- LinkedIn: [fahimahmeduk](https://www.linkedin.com/in/fahimahmeduk/)
