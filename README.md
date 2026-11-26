@@ -9,7 +9,7 @@ The goal of this repository is to document my progress as I work through core De
 - [x] Linux Fundamentals
 - [x] Git & GitHub
 - [x] Bash Scripting
-- [ ] Docker & Containerisation
+- [x] Docker Fundamentals
 - [ ] Monitoring
 - [ ] CI/CD
 - [ ] Terraform
@@ -49,6 +49,16 @@ Scripts can be found in:
 
 `bash/`
 
+## 🐳 Docker Fundamentals
+
+Completed introductory hands-on exercises covering:
+
+- Creating and starting containers with Docker commands
+- Checking container status
+- Reviewing container output with `docker logs`
+- Comparing successful and failed container exit statuses
+- Using `docker inspect` to review settings, including restart policies
+
 ## 🛠️ Lab Environment
 
 My DevOps learning environment currently consists of:
@@ -58,6 +68,7 @@ My DevOps learning environment currently consists of:
 - Bash
 - SSH
 - Cron
+- Docker
 - Dedicated homelab hardware
 
 More tools will be added as I progress through the roadmap.
@@ -79,15 +90,15 @@ For each topic I aim to:
 
 ✅ Linux Fundamentals  
 ✅ Git & GitHub  
-✅ Bash Scripting
+✅ Bash Scripting  
+✅ Docker Fundamentals
 
 ### Up Next
 
-🐳 Docker & Containerisation
+📊 Monitoring
 
 ### Future Modules
 
-- Monitoring
 - CI/CD
 - Terraform
 - Ansible
@@ -97,7 +108,7 @@ For each topic I aim to:
 
 This repository will continue to grow as I work through each module and build increasingly practical DevOps projects.
 
-The next stage is Docker, where I'll begin learning containerisation and how applications can be packaged and run consistently across different environments.
+Docker Fundamentals is now complete. I practised container lifecycle commands, checked container output and exit status, and used `docker inspect` to review container settings such as restart policies. Monitoring is next on my roadmap.
 
 ## Connect
 
